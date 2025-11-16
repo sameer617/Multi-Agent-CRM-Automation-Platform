@@ -147,11 +147,3 @@ python main.py
 ✔ Production-like CRM workflow in Python  
 
 ---
-
-## 🙌 Authors
-Built by *Sameer Kumar* as an advanced multi‑agent AI project.
-
----
-
-## 📎 File Download
-This README file is saved as **README.md** in your project folder.
