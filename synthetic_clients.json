@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "CloudXpert Inc.",
+    "industry": "SaaS & Cloud Infrastructure",
+    "employees": 120,
+    "location": "San Francisco, CA",
+    "tech_stack": ["AWS", "Python", "React", "PostgreSQL"],
+    "company_description": "CloudXpert provides scalable SaaS solutions for mid-sized enterprises to migrate and monitor workloads across multi-cloud environments. Their recent Series B funding aims to expand data migration and DevOps capabilities.",
+    "contact_email": "sameer.pandey627@gmail.com",
+    "intent_score":0.0
+  },
+  {
+    "company_name": "NeuraEdge Analytics",
+    "industry": "AI & Machine Learning",
+    "employees": 60,
+    "location": "Austin, TX",
+    "tech_stack": ["TensorFlow", "PyTorch", "Azure ML", "Node.js"],
+    "company_description": "NeuraEdge develops custom AI models for predictive analytics in retail and manufacturing. They seek external consulting to improve model deployment pipelines and MLOps automation.",
+    "contact_email": "sameer19@umd.edu",
+    "intent_score":0.0
+  },
+  {
+    "company_name": "PharmaCo",
+    "industry": "Pharmaceuticals",
+    "employees": 200,
+    "location": "Boston, MA",
+    "tech_stack": ["Python"],
+    "company_description": "PharmaCo is a forward-thinking pharmaceutical company dedicated to the discovery, development, and delivery of innovative therapeutic solutions. We focus on addressing unmet medical needs across key areas like oncology, immunology, and rare diseases.",
+    "contact_email": "partnerships@securenet.io",
+    "intent_score":0.0
+  }
+]

@@ -1,0 +1,27 @@
+=== CloudXpert Inc. (SaaS & Cloud Infrastructure) ===
+Sentiment: Positive
+Summary: In a discovery call, TechNova's Aisha and CloudXpert's CTO Michael discussed CloudXpert's multi-cloud challenges, including unpredictable costs, slow deployments, and alert fatigue. They agreed on a pilot project focusing on cost optimization and improving observability, with a kickoff scheduled for the following week.
+
+Top Themes:
+  - Multi-cloud infrastructure
+  - Cost optimization
+  - CI/CD processes
+  - Observability and alert management
+  - Pilot project planning
+Pain Points:
+  - Unpredictable costs and billing surprises
+  - Slow deployment cadence due to fragile pipelines
+  - Alert fatigue leading to inefficiencies
+  - Limited team capacity for new features
+Next Best Actions:
+  - Send calendar invite for the kickoff meeting
+  - Share pilot SOW draft by end of day Friday
+  - Prepare a short list of data samples or logs for the kickoff
+  - Conduct a security review with CloudXpert's team
+Notable Quotes:
+  - If we could get predictable cost forecasts and reduce incidents during traffic spikes, that would be huge.
+  - A focused pilot makes sense.
+  - I’ll send the invite and share the pilot SOW draft by end of day Friday.
+
+============================================================
+
